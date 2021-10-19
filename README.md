@@ -56,7 +56,7 @@ If we take a closer look to this component we can extract 3 parts:
 
 The most painstaking of you might tell themself :
 
->I recognize it, It's my rulebook ! God save BEM (Block / Element / Modifier)"
+>I recognize it, It's my rulebook ! God save BEM (Block / Element / Modifier)
 
 *For the others, it's not a shame, juste take a look at this : http://getbem.com/*
 
